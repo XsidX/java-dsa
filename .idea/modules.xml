@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GCD-recursive/GCD-recursive.iml" filepath="$PROJECT_DIR$/GCD-recursive/GCD-recursive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decimal-to-binary-recursive/decimal-to-binary-recursive.iml" filepath="$PROJECT_DIR$/decimal-to-binary-recursive/decimal-to-binary-recursive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factorial/factorial.iml" filepath="$PROJECT_DIR$/factorial/factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fibonacci-recursive/fibonacci recursion.iml" filepath="$PROJECT_DIR$/fibonacci-recursive/fibonacci recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-dsa.iml" filepath="$PROJECT_DIR$/java-dsa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/power-of-no-recursion/power-of-no-recursion.iml" filepath="$PROJECT_DIR$/power-of-no-recursion/power-of-no-recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sum-of-digits-of-postive-integer-recursion/sum-of-digits-of-postive-integer-recursion.iml" filepath="$PROJECT_DIR$/sum-of-digits-of-postive-integer-recursion/sum-of-digits-of-postive-integer-recursion.iml" />
+    </modules>
+  </component>
+</project>
